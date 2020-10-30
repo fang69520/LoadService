@@ -1,0 +1,13 @@
+{
+    "name": "edz/load-service",
+    "description": "load rpc services",
+    "type": "library",
+    "authors": [
+        {
+            "name": "dannel",
+            "email": "345167506@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
